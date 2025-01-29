@@ -900,7 +900,7 @@ LeastSquaresResult!T optimizeLeastSquaresImplGeneric(T)
     import mir.algorithm.iteration;
     import core.stdc.stdio;
 
-    debug
+    //debug
     {
         work[] = 0;
         iwork[] = 0;
